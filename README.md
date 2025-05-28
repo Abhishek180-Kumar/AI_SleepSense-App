@@ -1,2 +1,29 @@
-# AI_SleepSense-App
-AI SleepSense ek intelligent AI-based application hai jo users ke sleep data ko analyze karta hai aur sleep disorders jaise Insomnia aur Sleep Apnea detect karta hai. Ye project ML classification aur clustering techniques ka use karta hai sleep pattern ko analyze karne ke liye.
+# AI SleepSense – Smart Sleep Disorder Detection and Improvement Advisor
+
+## 🔍 Problem Statement
+Millions of people suffer from sleep disorders like insomnia or sleep apnea, often undiagnosed. This project uses machine learning to analyze sleep data and provide personalized advice to improve sleep quality.
+
+## 💡 Features
+- User input-based sleep disorder prediction
+- Real-time suggestions based on prediction
+- Sleep pattern clustering with visualization
+- Easy-to-use interface built with Streamlit
+
+## 🧰 Tools Used
+- Python
+- Streamlit
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- NumPy
+- Pandas
+
+## 📹 Demo Video
+[Watch Here](https://your-demo-video-link.com)
+
+## 🌐 How to Run
+
+1. Clone this repository
+```bash
+git clone https://github.com/your-username/AI-SleepSense.git
+cd AI-SleepSense
