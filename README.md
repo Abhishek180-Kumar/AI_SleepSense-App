@@ -25,5 +25,5 @@ Millions of people suffer from sleep disorders like insomnia or sleep apnea, oft
 
 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/AI-SleepSense.git
+git clone [https://github.com/your-username/AI-SleepSense.git](https://github.com/Abhishek180-Kumar/AI_SleepSense-App)
 cd AI-SleepSense
